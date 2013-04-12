@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\gen\org\apache\cordova\example\R.java \
+ : C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-hdpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-ldpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-mdpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-mdpi\taza_medium.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-xhdpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\drawable-xhdpi\taza_small.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\layout\main.xml \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\values\strings.xml \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\res\xml\config.xml \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-hdpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-ldpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-mdpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-mdpi\taza_medium.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-xhdpi\icon.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\res\drawable-xhdpi\taza_small.png \
+C:\Users\Administrator\Desktop\Mostrando_Splash_Screen\bin\AndroidManifest.xml \

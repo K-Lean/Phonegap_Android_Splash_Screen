@@ -1,0 +1,12 @@
+/* 
+    Document   : main.css
+    Created on : Apr 11, 2013, 8:17:05 PM
+    Author     : Leandro Nafissi
+    Description:
+        Hoja de estilos para la pagina Principal.
+*/
+
+body, h1, h2, h3, p, img { 
+    text-align: center;
+}
+
